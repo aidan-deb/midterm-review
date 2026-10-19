@@ -1,0 +1,62 @@
+.banner {
+    background-color: #5da9ff;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+}
+
+.banner h1 {
+    color: #003f9d;
+    font-family: Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+.banner p {
+    color: black;
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
+}
+
+.headline {
+    font-family: Helvetica, sans-serif;
+    font-size: 48px;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.story {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+    line-height: 1.8;
+}
+
+.paragraphs {
+    font-family: Georgia, serif;
+    font-size: 13px;
+}
+
+blockquote {
+    font-size: 24px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 25px 0;
+    margin-bottom: 0;
+}
+
+.caption {
+    font-size: 13px;
+    color: gray;
+    font-style: italic;
+    text-align: left;
+    margin-top: 4px;
+}
